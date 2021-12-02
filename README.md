@@ -5,9 +5,9 @@ Developing the API of the famous game 2048.
 
 ## Requirements:
 
-Download [node.js](https://nodejs.org/en/download/) (preferably the recommended version)
+Download [node.js](https://nodejs.org/en/download/) (preferably the recommended version).
 
-Install the dependencies in the local node_modules folder
+Install the dependencies in the local node_modules folder:
 ```sh
 $ npm install
 ```
